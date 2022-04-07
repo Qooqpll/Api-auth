@@ -1,4 +1,4 @@
-url для регистрации: https://localhost/auth/api/v1/signup/
+url for sign up: https://localhost/auth/api/v1/signup/
 
 {
 'domain' : 'name',
@@ -8,7 +8,7 @@ url для регистрации: https://localhost/auth/api/v1/signup/
 'rememberMe' : 'true | false'
 }
 
-url для авторизации: https://localhost/auth/api/v1/signin/
+url for sign in: https://localhost/auth/api/v1/signin/
 
 {
 'domain' : 'name',
